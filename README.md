@@ -1,3 +1,4 @@
+best .htaccess for you
 # safirstudio.ro
 
 
